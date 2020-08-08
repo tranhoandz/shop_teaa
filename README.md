@@ -13,6 +13,7 @@
 			<li><code>Add the database from file themdata/ok.sql</code></li>
 			<li><code>Or enter the database from file themdata/laravel.sql</code></li>
 			<li><code>It's done. Visit {doman}/shop_teaa</code></li>
+            ok ok
 		</ul>
 	</article>
 </div>
